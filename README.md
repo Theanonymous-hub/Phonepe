@@ -6,7 +6,7 @@ Bootstrap is a popular front-end framework that provides a set of pre-designed a
 It's important to note that while Bootstrap is a powerful and widely used tool, its adoption may depend on the specific needs and preferences of a project.
 🔍 What's Next?
 As I continue my MERN journey, I'm eager to explore React's component-based architecture, Node.js for server-side development, and MongoDB for database management. The goal is to build real-world applications that not only showcase technical skills but also contribute to solving meaningful problems.
-hashtag#phonepe hashtag#mernstackdevelopment hashtag#webdevelopment hashtag#codingjourney hashtag#bootstrap hashtag#htmlcss 
+#phonepe #mernstackdevelopment #webdevelopment #codingjourney #bootstrap #htmlcss 
 
 ## Tech stack used:
 -Html
